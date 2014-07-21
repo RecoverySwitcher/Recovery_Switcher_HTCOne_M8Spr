@@ -1,0 +1,15 @@
+<@center><b>Recovery Switcher 3.0.0</b></@>
+<@center><b>Jul 18 2014</b></@>
+<@center><*>Updated Unofficial TWRP Recovery</*></@>
+<@center><*>Updated TWRP Recovery</*></@>
+<@center><*>Updated PhilZ Touch Recovery</*></@>
+
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>May 7 2014</b></@>
+<@center><*>Unofficial TWRP Recovery</*></@>
+
+<@center><b>Recovery Switcher 1.0.0</b></@>
+<@center><b>May 1 2014</b></@>
+<@center><*>TWRP Recovery</*></@>
+<@center><*>PhilZ Touch</*></@>
+<@center><*>CWM</*></@>
